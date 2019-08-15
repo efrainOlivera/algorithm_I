@@ -1,1 +1,2 @@
-# algorithm_I
+Assignment
+Predict the output for the following codes.
